@@ -11,7 +11,7 @@ cs2cs +init=epsg:23030 +to +init=epsg:25830 -w5 <<EOF
 EOF
 
 echo
-echo From 23030 to 25830
+echo From 25830 to 23030
 echo Results should be:
 echo 235205.243 4142110.093
 echo 265467 3988010
