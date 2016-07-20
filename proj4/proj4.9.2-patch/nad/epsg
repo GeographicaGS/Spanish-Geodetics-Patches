@@ -7152,7 +7152,7 @@
 # ED50 / UTM zone 30N
 <23030> +proj=utm +zone=30 +datum=ED50 +ellps=intl +towgs84=-87,-98,-121,0,0,0,0 +units=m +no_defs  <>
 # ED50 / UTM zone 31N
-<23031> +proj=utm +zone=31 +ellps=intl +towgs84=-87,-98,-121,0,0,0,0 +units=m +no_defs  <>
+<23031> +proj=utm +zone=31 +datum=ED50 +ellps=intl +towgs84=-87,-98,-121,0,0,0,0 +units=m +no_defs  <>
 # ED50 / UTM zone 32N
 <23032> +proj=utm +zone=32 +ellps=intl +towgs84=-87,-98,-121,0,0,0,0 +units=m +no_defs  <>
 # ED50 / UTM zone 33N
